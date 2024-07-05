@@ -8,7 +8,7 @@ pipeline {
         packageVersion = ''
         AWS_DEFAULT_REGION = 'us-east-1' // AWS region
         S3_BUCKET_NAME = 'my-tf-test-bucket-1' // Replace with your S3 bucket name
-        APP_NAME = 'catalogue'
+        APP_NAME = 'test-catalogue'
     }
     
     stages {
